@@ -1,0 +1,2 @@
+homeassistant
+utec-py==0.1.4
