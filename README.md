@@ -8,7 +8,6 @@
 [![Black][black-shield]][black]
 
 [![hacs][hacsbadge]][hacs]
-[![Project Maintenance][maintenance-shield]][user_profile]
 
 **Platform Support.**
 
